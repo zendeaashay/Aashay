@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to my Page!
-permalink: /welcome
+permalink: /explore
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
